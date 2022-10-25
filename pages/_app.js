@@ -9,7 +9,9 @@ export default function App({
   return (
     <ChakraProvider>
       <SessionProvider session={session}>
-        <Component {...pageProps} />
+        <div className="min-h-screen bg-gray-100">
+          <Component {...pageProps} />
+        </div>
       </SessionProvider>
     </ChakraProvider>
   );

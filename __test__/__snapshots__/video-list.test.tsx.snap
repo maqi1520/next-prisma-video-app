@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`VideoList > it should be render 1`] = `
+<div>
+  <div />
+</div>
+`;

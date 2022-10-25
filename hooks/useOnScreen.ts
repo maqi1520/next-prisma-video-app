@@ -4,12 +4,12 @@ export default function useOnScreen<T extends Element>(
   ref: MutableRefObject<T>,
   rootMargin: string = "0px"
 ): boolean {
-  // State and setter for storing whether element is visible
+  // 元素是否可见
   const [isIntersecting, setIntersecting] = useState<boolean>(false);
   useEffect(() => {
     const observer = new IntersectionObserver(
       ([entry]) => {
-        // Update our state when observer callback fires
+        //更新返回数据
         setIntersecting(entry.isIntersecting);
       },
       {
@@ -20,8 +20,8 @@ export default function useOnScreen<T extends Element>(
       observer.observe(ref.current);
     }
     return () => {
-      ref.current && observer.unobserve(ref.current);
+      observer.unobserve(ref.current);
     };
-  }, []); // Empty array ensures that effect is only run on mount and unmount
+  }, []); //只在挂载的时候监听一次
   return isIntersecting;
 }

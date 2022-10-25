@@ -14,13 +14,13 @@ type Props = {
 
 export default function Page({ data }: Props) {
   return (
-    <div className="max-w-3xl px-3 mx-auto">
-      <header className="flex justify-between items-center p-3 bg-gray-100">
+    <div className="max-w-3xl mx-auto">
+      <header className="flex justify-between items-center p-3 bg-white shadow">
         <h1 className="font-bold text-2xl">Next Video</h1>
         <LoginBtn />
       </header>
-      <main className="grid grid-cols-2 gap-2">
-        <VideoList data={data} />
+      <main className="px-3 mt-3">
+        <VideoList className="grid grid-cols-2 gap-2" data={data} />
       </main>
     </div>
   );

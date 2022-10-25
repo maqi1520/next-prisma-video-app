@@ -1,23 +1,15 @@
 import { PrismaClient } from "@prisma/client";
-import example from "./example.json";
+import example from "./example2.json";
 
 // initialize Prisma Client
 const prisma = new PrismaClient();
 
 async function main() {
-  const { id: categoryId } = await prisma.category.create({
-    data: {
-      name: "数学",
-    },
-  });
-
-  const { id: authorId } = await prisma.user.create({
-    data: {
-      name: "小马",
-      avatar:
-        "https://p3-passport.byteimg.com/img/user-avatar/585e1491713363bc8f67d06c485e8260~100x100.awebp",
-    },
-  });
+  // const { id: categoryId } = await prisma.category.create({
+  //   data: {
+  //     name: "设计",
+  //   },
+  // });
 
   const chapters = example.data.outlines.reduce((res, item) => {
     item.lectures.forEach((lecture) => {
@@ -38,8 +30,8 @@ async function main() {
       title: example.data.title,
       desc: example.data.brief,
       pic: example.data.cover_url,
-      categoryId,
-      authorId,
+      categoryId: 1,
+      authorId: "cl95b4ny10000fjnuhm7rvys5",
       chapter: {
         createMany: {
           data: chapters,

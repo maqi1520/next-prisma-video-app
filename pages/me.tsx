@@ -13,12 +13,12 @@ type Props = {
 
 export default function Page({ data }) {
   return (
-    <div className="max-w-3xl px-3 mx-auto">
-      <header className="flex justify-between items-center p-3 bg-gray-100">
+    <div className="max-w-3xl mx-auto">
+      <header className="flex justify-between items-center p-3  bg-white shadow">
         <h1 className="font-bold text-2xl">个人中心</h1>
       </header>
-      <main className="space-y-3">
-        <VideoList data={data} editable horizontal />
+      <main className="px-3 mt-3">
+        <VideoList className="space-y-3" data={data} editable horizontal />
       </main>
     </div>
   );

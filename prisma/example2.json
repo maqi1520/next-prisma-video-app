@@ -1,0 +1,2636 @@
+{
+  "result": true,
+  "data": {
+    "type": "opencourse",
+    "id": 1091,
+    "title": "高中数学：三角",
+    "en_title": "Trigonometry",
+    "subtitle": "",
+    "slug": "trigonometry",
+    "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201602/18/1455776864827_2156.jpg",
+    "brief": "课程名看上去很牛是不是？被骗了吧。看看前缀，tri-，你也许会认为三角（&ldquo;trig&rdquo;有时候会这么称呼它）和三角形有关。也许某种程度上是对的！三角的确是在研究三角形的属性。为什么这很重要？它会被用来测量精确的距离，特别是在工业方面，比如卫星系统，还有天文科学等。它不仅仅是一种空间概念。三角还在建筑和音乐中频繁出现。你也许会好奇 - 怎么三角会和音乐扯上关系？这真是个好问题，自己去课程里找答案吧！",
+    "detail": "PHA+6K++56iL5ZCN55yL5LiK5Y675b6I54mb5piv5LiN5piv77yf6KKr6aqX5LqG5ZCn44CC55yL55yL5YmN57yA77yMdHJpLe+8jOS9oOS5n+iuuOS8muiupOS4uuS4ieinku+8iCZsZHF1bzt0cmlnJnJkcXVvO+acieaXtuWAmeS8mui/meS5iOensOWRvOWug++8ieWSjOS4ieinkuW9ouacieWFs+OAguS5n+iuuOafkOenjeeoi+W6puS4iuaYr+WvueeahO+8geS4ieinkueahOehruaYr+WcqOeglOeptuS4ieinkuW9oueahOWxnuaAp+OAguS4uuS7gOS5iOi/meW+iOmHjeimge+8n+Wug+S8muiiq+eUqOadpea1i+mHj+eyvuehrueahOi3neemu++8jOeJueWIq+aYr+WcqOW3peS4muaWuemdou+8jOavlOWmguWNq+aYn+ezu+e7n++8jOi/mOacieWkqeaWh+enkeWtpuetieOAguWug+S4jeS7heS7heaYr+S4gOenjeepuumXtOamguW/teOAguS4ieinkui/mOWcqOW7uuetkeWSjOmfs+S5kOS4remikee5geWHuueOsOOAguS9oOS5n+iuuOS8muWlveWlhyAtIOaAjuS5iOS4ieinkuS8muWSjOmfs+S5kOaJr+S4iuWFs+ezu++8n+i/meecn+aYr+S4quWlvemXrumimO+8jOiHquW3seWOu+ivvueoi+mHjOaJvuetlOahiOWQp++8gTwvcD48c2VjdGlvbj48aDU+56ysMeeroCZuYnNwO+ebuOS8vOS4ieinkuW9ouWSjOS4ieinkuavlDwvaDU+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjEtMSZuYnNwO+S4ieinkuavlCZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDk6MTYpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPihRQVEpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+MS0yJm5ic3A75aaC5L2V6K6h566X55u06KeS5LiJ6KeS5b2i55qE5LiJ6KeS5Ye95pWwJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDoxMjoxMCk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOiQveWMl+mbtik8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4xLTMmbmJzcDvlpoLkvZXliKnnlKjkuInop5Lms5XmsYLnm7Top5LkuInop5LlvaLkuK3mnKrnn6XovrnnmoTplb/luqbvvIjkvovpopjvvIkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA3OjAzKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5rGf5rKi5aau5Y+vKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjEtNCZuYnNwO+aAjuagt+WcqOacieS4gOS4quacquefpeinkueahOaDheWGteS4i+ino+S4gOS4quebtOinkuS4ieinkuW9oijnpLrkvospJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNDozNCk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KFNoZXJsb2NrKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjEtNSZuYnNwO+ebuOS8vOS4ieinkuW9ouWSjOS4ieinkuavlCZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDg6NTUpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijCpzg4LjlMQU1QKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjEtNiZuYnNwO0NoYWxsZW5nZSBwcm9ibGVtOiBWZXJpZnkgaWRlbnRpdGllcyZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDU6MDYpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+MS03Jm5ic3A7Q2hhbGxlbmdlIHByb2JsZW06IE1hdGNoIHRyaWdvbm9tZXRyaWMgdmFsdWVzIGFuZCBzaWRlIHJhdGlvcyZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDk6MjMpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+MS04Jm5ic3A7VGhlIHNpbmUgYW5kIGNvc2luZSBvZiBjb21wbGVtZW50YXJ5IGV4YW1wbGUmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA0OjE0KTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjEtOSZuYnNwO+S6kuS9meinkueahOato+S9meW8puWFs+ezu+W6lOeUqCZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDQ6MDQpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPihtQXRoKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjEtMTAmbmJzcDtVc2luZyB0aGUgcmVsYXRpb25zaGlwIGJldHdlZW4gc2luZSBhbmQgY29zaW5lIG9mIGNvbXBsZW1lbnRhcnkgYW5nbGVzIHRvIHNvbHZlIGEgcmVhbC13b3JsZCBwcm9ibGVtJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNTo0Myk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4xLTExJm5ic3A7SW50cm9kdWN0aW9uIHRvIHRoZSBQeXRoYWdvcmVhbiB0cmlnb25vbWV0cmljIGlkZW50aXR5Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNDoxNSk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4xLTEyJm5ic3A7SG93IHRvIGZpbmQgdGhlIHJlY2lwcm9jYWwgdHJpZ29ub21ldHJpYyByYXRpb3Mgb2YgYW4gYW5nbGUgKGV4YW1wbGUpJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNDo0Myk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4xLTEzJm5ic3A7SG93IHRvIHVzZSBjb3RhbmdlbnQgaW4gb3JkZXIgdG8gc29sdmUgZm9yIGEgc2lkZSBpbiBhIHJpZ2h0IHRyaWFuZ2xlIChleGFtcGxlKSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDY6MTEpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48aDU+56ysMueroCZuYnNwO+S4gOiIrOS4ieinkuW9ojwvaDU+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjItMSZuYnNwO0hvdyB0byBmaW5kIGEgbWlzc2luZyBzaWRlIGxlbmd0aCB1c2luZyB0aGUgbGF3IG9mIHNpbmVzIChleGFtcGxlKSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDU6NTcpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+Mi0yJm5ic3A7SG93IHRvIGZpbmQgYSBtaXNzaW5nIGFuZ2xlIG1lYXN1cmUgdXNpbmcgdGhlIGxhdyBvZiBzaW5lcyAoZXhhbXBsZSkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA1OjMzKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjItMyZuYnNwO1Byb29mIG9mIHRoZSBsYXcgb2Ygc2luZXMmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA2OjMzKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjItNCZuYnNwO0hvdyB0byBmaW5kIGEgbWlzc2luZyBzaWRlIGxlbmd0aCB1c2luZyB0aGUgbGF3IG9mIGNvc2luZXMgKGV4YW1wbGUpJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNDozNyk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4yLTUmbmJzcDtIb3cgdG8gZmluZCBhIG1pc3NpbmcgYW5nbGUgbWVhc3VyZSB1c2luZyB0aGUgbGF3IG9mIGNvc2luZXMgKGV4YW1wbGUpJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNjo0MCk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4yLTYmbmJzcDtQcm9vZiBvZiB0aGUgbGF3IG9mIGNvc2luZXMmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA5OjI2KTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjItNyZuYnNwO1dvcmQgcHJvYmxlbTogU29sdmluZyBmb3IgYSBzaWRlIGxlbmd0aCBpbiBhIGdlbmVyYWwgdHJpYW5nbGUgKGV4YW1wbGUpJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNTo1OCk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxoNT7nrKwz56ugJm5ic3A75q2j5bym77yM5L2Z5bym77yM5q2j5YiH55qE5Y2V5L2N5ZyG5a6a5LmJPC9oNT48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+My0xJm5ic3A7SW50cm9kdWN0aW9uIHRvIHJhZGlhbnMmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjEwOjQ5KTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjMtMiZuYnNwO0NvbnZlcnRpbmcgYmV0d2VlbiByYWRpYW5zIGFuZCBkZWdyZWVzJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNzoxMCk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4zLTMmbmJzcDtIb3cgdG8gY29udmVydCBmcm9tIGRlZ3JlZXMgdG8gcmFkaWFucyAoZXhhbXBsZSkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA3OjAwKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjMtNCZuYnNwO0hvdyB0byBjb252ZXJ0IGZyb20gcmFkaWFucyB0byBkZWdyZWVzIChleGFtcGxlKSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDM6MTkpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+My01Jm5ic3A7Um90YXRpb24gYnkgcmFkaWFucyBhbmQgcXVhZHJhbnRzJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowMzo1MCk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4zLTYmbmJzcDtUaGUgdW5pdCBjaXJjbGUgZGVmaW5pdGlvbiBvZiBzaW5lLCBjb3NpbmUsIGFuZCB0YW5nZW50Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowOTowMyk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4zLTcmbmJzcDtIb3cgdG8gZmluZCB0cmlnb25vbWV0cmljIHZhbHVlcyB1c2luZyB0aGUgdW5pdCBjaXJjbGUgZGVmaW5pdGlvbiAoZXhhbXBsZSkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA0OjExKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjMtOCZuYnNwO01hdGNoaW5nIHRoZSBTT0ggQ0FIIFRPQSBhbmQgdGhlIHVuaXQgY2lyY2xlIGRlZmluaXRpb25zIG9mIHRoZSB0cmlnb25vbWV0cmljIGZ1bmN0aW9ucyZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDY6NTYpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+My05Jm5ic3A7VGhlIGdyYXBoIG9mIHRoZSBzaW5lIGZ1bmN0aW9uJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowOToyMSk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4zLTEwJm5ic3A7VGhlIGdyYXBoIG9mIHRoZSB0YW5nZW50IGZ1bmN0aW9uJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDoxMDoxMSk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4zLTExJm5ic3A7RmluZGluZyB0aGUgaW50ZXJzZWN0aW9uIHBvaW50cyBvZiB0aGUgZ3JhcGhzIG9mIHNpbmUgYW5kIGNvc2luZSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MTE6MDYpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+My0xMiZuYnNwO1NpbmUgYW5kIGNvc2luZSBpZGVudGl0aWVzIHRoYXQgYXJpc2UgZnJvbSB0aGUgc3ltbWV0cnkgb2YgdGhlIHVuaXQgY2lyY2xlJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNzo1Nyk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4zLTEzJm5ic3A7VGFuZ2VudCBpZGVudGl0aWVzIHRoYXQgYXJpc2UgZnJvbSB0aGUgc3ltbWV0cnkgb2YgdGhlIHVuaXQgY2lyY2xlJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNzoxNCk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij4zLTE0Jm5ic3A7U2luZSBhbmQgY29zaW5lIGlkZW50aXRpZXMgdGhhdCBhcmlzZSBmcm9tIGFuZ2xlIHJvdGF0aW9ucyBvbiB0aGUgdW5pdCBjaXJjbGUmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA2OjEyKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjMtMTUmbmJzcDtJZGVudGl0eSB0aGF0IGFyaXNlcyBmcm9tIHRoZSBwZXJpb2RpY2l0eSBvZiB0aGUgdGFuZ2VudCBmdW5jdGlvbiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDQ6MDEpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+My0xNiZuYnNwO0ZpbmRpbmcgdGhlIHRyaWdvbm9tZXRyaWMgdmFsdWVzIG9mIGEgc3BlY2lhbCBhbmdsZSBpbiB0aGUgdW5pdCBjaXJjbGUmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA3OjUyKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjMtMTcmbmJzcDtQcm9vZiBvZiB0aGUgUHl0aGFnb3JlYW4gdHJpZ29ub21ldHJpYyBpZGVudGl0eSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDY6MTEpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+My0xOCZuYnNwO0hvdyB0byBmaW5kIGEgdHJpZyB2YWx1ZSBvZiBhbiBhbmdsZSBnaXZlbiBhbm90aGVyIHRyaWcgdmFsdWUgb2YgdGhlIGFuZ2xlIChleGFtcGxlKSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDY6MTQpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+My0xOSZuYnNwO1RhdSB2ZXJzdXMgcGkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjE2OjIxKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjMtMjAmbmJzcDtQaSBpcyAoc3RpbGwpIHdyb25nJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNToxNik8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxoNT7nrKw056ugJm5ic3A75LiJ6KeS5Ye95pWw5puy57q/PC9oNT48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NC0xJm5ic3A7VGhlIGdyYXBoIG9mIHRoZSBzaW5lIGZ1bmN0aW9uJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowOToyMSk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij40LTImbmJzcDtUaGUgZ3JhcGggb2YgdGhlIHRhbmdlbnQgZnVuY3Rpb24mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjEwOjExKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjQtMyZuYnNwO0ZpbmRpbmcgdGhlIGludGVyc2VjdGlvbiBwb2ludHMgb2YgdGhlIGdyYXBocyBvZiBzaW5lIGFuZCBjb3NpbmUmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjExOjA2KTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjQtNCZuYnNwO01pZGxpbmUsIGFtcGxpdHVkZSBhbmQgcGVyaW9kIG9mIGEgc2ludXNvaWRhbCBmdW5jdGlvbiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDQ6NTcpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NC01Jm5ic3A7SG93IHRvIGZpbmQgdGhlIGFtcGxpdHVkZSBhbmQgcGVyaW9kIG9mIGEgc2ludXNvaWRhbCBmdW5jdGlvbnMgZnJvbSBpdHMgZm9ybXVsYSAoZXhhbXBsZSkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA4OjIwKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjQtNiZuYnNwO0hvdyB0byBmaW5kIHRoZSBhbXBsaXR1ZGUgYW5kIHBlcmlvZCBvZiBhIHNpbnVzb2lkYWwgZnVuY3Rpb25zIGZyb20gaXRzIGZvcm11bGEgKGV4YW1wbGUpJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowODoyMCk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij40LTcmbmJzcDtHcmFwaCBvZiBhIHNpbnVzb2lkYWwgZnVuY3Rpb24gd2l0aCB2ZXJ0aWNhbCBzdHJldGNoIGFuZCBob3Jpem9udGFsIHJlZmxlY3Rpb24mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjEyOjUxKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjQtOCZuYnNwO0dyYXBoIG9mIGEgc2ludXNvaWRhbCBmdW5jdGlvbiB3aXRoIHZlcnRpY2FsIGFuZCBob3Jpem9udGFsIHN0cmV0Y2hlcyZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MTA6NDIpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NC05Jm5ic3A7SG93IHRvIGNvbnN0cnVjdCBhIHNpbnVzb2lkYWwgZnVuY3Rpb24gZnJvbSBpdHMgZ3JhcGgmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA1OjIxKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjQtMTAmbmJzcDtXb3JkIHByb2JsZW06IENvbnN0cnVjdGluZyBhIHNpbnVzb2lkYWwgbW9kZWwgdXNpbmcgc2luZSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MTA6NTQpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NC0xMSZuYnNwO1dvcmQgcHJvYmxlbTogQ29uc3RydWN0aW5nIGEgc2ludXNvaWRhbCBtb2RlbCB1c2luZyBjb3NpbmUmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA3OjA4KTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjQtMTImbmJzcDtXb3JkIHByb2JsZW06IENvbnN0cnVjdGluZyBhIHNpbnVzb2lkYWwgbW9kZWwgd2l0aCBwaGFzZSBzaGlmdCZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDc6NDIpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48aDU+56ysNeeroCZuYnNwO+S4ieinkuaWueeoi+etieW8jzwvaDU+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjUtMSZuYnNwO0ludHJvZHVjdGlvbiB0byBhcmNzaW5lJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDoxMDozNSk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij41LTImbmJzcDtJbnRyb2R1Y3Rpb24gdG8gYXJjdGFuZ2VudCZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MTA6MDUpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NS0zJm5ic3A7SW50cm9kdWN0aW9uIHRvIGFyY2Nvc2luZSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MTM6MzcpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NS00Jm5ic3A7SG93IHRvIHJlc3RyaWN0IHRoZSBkb21haW4gb2YgYSBmdW5jdGlvbiB0byBtYWtlIGl0IGludmVydGlibGUgKGV4YW1wbGUpJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNTo1OSk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij41LTUmbmJzcDtSZXN0cmljdGluZyB0aGUgZG9tYWluIG9mIGEgdGFuZ2VudCBmdW5jdGlvbiB0byBtYWtlIGl0IGludmVydGlibGUmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA5OjQzKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjUtNiZuYnNwO0hvdyB0byBmaW5kIGFuIGFuZ2xlIGdpdmVuIGl0cyB0YW5nZW50IHVzaW5nIGEgY2FsY3VsYXRvciAoZXhhbXBsZSkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjAzOjM0KTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjUtNyZuYnNwO0hvdyB0byBmaW5kIGFsbCBzb2x1dGlvbnMgdG8gYW4gZXF1YXRpb24gb2YgdGhlIGZvcm0gc2luKHgpPWQgKGV4YW1wbGUpJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNjowOSk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij41LTgmbmJzcDtTb2x2aW5nIGNvcyjOuCk9MSBhbmQgY29zKM64KT0tMSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDU6MTcpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NS05Jm5ic3A7V29yZCBwcm9ibGVtOiBTb2x2aW5nIGEgc2ludXNvaWRhbCBtb2RlbGluZyBmdW5jdGlvbiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDg6MjIpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NS0xMCZuYnNwO1JldmlldyBvZiB0aGUgdHJpZ29ub21ldHJpYyBhbmdsZSBhZGRpdGlvbiBpZGVudGl0aWVzJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDoxMTowNik8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij41LTExJm5ic3A7SG93IHRvIHVzZSB0aGUgY29zaW5lIGFuZ2xlIGFkZGl0aW9uIGlkZW50aXR5IChleGFtcGxlKSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDU6MTMpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NS0xMiZuYnNwO0hvdyB0byB1c2UgdGhlIGNvc2luZSBkb3VibGUtYW5nbGUgaWRlbnRpdHkgKGV4YW1wbGUpJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowMzoyNyk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij41LTEzJm5ic3A7UHJvb2Ygb2YgdGhlIHNpbmUgYW5nbGUgYWRkaXRpb24gaWRlbnRpdHkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA4OjI1KTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjUtMTQmbmJzcDtQcm9vZiBvZiB0aGUgY29zaW5lIGFuZ2xlIGFkZGl0aW9uIGlkZW50aXR5Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowNjowMSk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij41LTE1Jm5ic3A7SG93IHRvIGZpbmQgdHJpZ29ub21ldHJpYyB2YWx1ZXMgdXNpbmcgdGhlIGFuZ2xlIGFkZGl0aW9uIGZvcm11bGFzIChleGFtcGxlKSZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDg6MzQpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NS0xNiZuYnNwO0hvdyB0byBmaW5kIGEgc2lkZSBsZW5ndGggdXNpbmcgdGhlIHRyaWcgYW5nbGUgYWRkaXRpb24gaWRlbnRpdGllcyAoZXhhbXBsZSkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA1OjE5KTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjUtMTcmbmJzcDtIb3cgdG8gbWFuaXB1bGF0ZSBleHByZXNzaW9ucyB1c2luZyB0aGUgdHJpZyBhbmdsZSBhZGRpdGlvbiBmb3JtdWxhcyAoZXhhbXBsZSkmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjA2OjExKTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjUtMTgmbmJzcDtSZXdyaXRpbmcgdHJpZ29ub21ldHJpYyBleHByZXNzaW9ucyB1c2luZyB0cmlnb25vbWV0cmljIGlkZW50aXRpZXMmbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuNmVtOyI+KDAwOjAzOjA2KTwvc3Bhbj4mbmJzcDs8c3BhbiBzdHlsZT0iZm9udC1zaXplOjAuN2VtO2NvbG9yOiM5ZDlkOWQ7Ij4o5b6F6K+RKTwvc3Bhbj48L3A+PHAgc3R5bGU9InRleHQtaW5kZW50OjFlbTsiPjUtMTkmbmJzcDtDaGFsbGVuZ2UgcHJvYmxlbTogRmluZCB0aGUgYXJlYSBvZiBhIHRyaWFuZ2xlJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDoxNjozNCk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij41LTIwJm5ic3A7Q2hhbGxlbmdlIHByb2JsZW06IEZpbmQgdGhlIGFyZWEgb2YgYSBoZXhhZ29uJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDoxODoxNyk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij41LTIxJm5ic3A7Q2hhbGxlbmdlIHByb2JsZW06IEZpbmQgY29zaW5lIG9mIHN1bSBvZiBhbmdsZXMgZ2l2ZW4gdGhlaXIgY29zaW5lcyZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MDc6MTMpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NS0yMiZuYnNwO0NoYWxsZW5nZSBwcm9ibGVtOiBSZXdyaXRlIGEgdHJpZ29ub21ldHJpYyBlcXVhdGlvbiBvZiBhbmdsZXMgaW4gYXJpdGhtZXRpYyBwcm9ncmVzc2lvbiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MTU6MTIpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NS0yMyZuYnNwO0NoYWxsZW5nZSBwcm9ibGVtOiBGaW5kIHRoZSBtYXhpbXVtIHZhbHVlIG9mIGEgdHJpZ29ub21ldHJpYyBleHByZXNzaW9uJm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjZlbTsiPigwMDowOTo1Myk8L3NwYW4+Jm5ic3A7PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTowLjdlbTtjb2xvcjojOWQ5ZDlkOyI+KOW+heivkSk8L3NwYW4+PC9wPjxwIHN0eWxlPSJ0ZXh0LWluZGVudDoxZW07Ij41LTI0Jm5ic3A7Q2hhbGxlbmdlIHByb2JsZW06IFN5c3RlbSBvZiB0cmlnb25vbWV0cmljIGVxdWF0aW9ucyZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MTI6NDgpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48cCBzdHlsZT0idGV4dC1pbmRlbnQ6MWVtOyI+NS0yNSZuYnNwO0NoYWxsZW5nZSBwcm9ibGVtOiBDb25kaXRpb25zIG9uIGFuZ2xlIGZvciBhIHN5c3RlbSBvZiBlcXVhdGlvbiBoYXZpbmcgYSBzb2x1dGlvbiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC42ZW07Ij4oMDA6MTE6MDIpPC9zcGFuPiZuYnNwOzxzcGFuIHN0eWxlPSJmb250LXNpemU6MC43ZW07Y29sb3I6IzlkOWQ5ZDsiPijlvoXor5EpPC9zcGFuPjwvcD48L3NlY3Rpb24+",
+    "instructor_id": [716],
+    "duration_hour": 10.15,
+    "duration_secs": 0,
+    "onupdate": true,
+    "join_course_total": 215,
+    "promo_id": null,
+    "institute": {
+      "id": 216,
+      "name": "可汗学院",
+      "en_name": "Khan Academy",
+      "logo_url": "http://gcdp.oss-cn-qingdao.aliyuncs.com/201603/1/1456788038181_4161.jpg",
+      "brief": "从幼儿园教到大学的美国免费在线课堂",
+      "detail": "",
+      "instructors": [
+        {
+          "id": 716,
+          "name": "Salman Khan",
+          "avatar_url": "http://gcdp.oss-cn-qingdao.aliyuncs.com/201603/1/1456788242021_5284.jpg",
+          "brief": "",
+          "institute_id": 216
+        }
+      ]
+    },
+    "chapter_total": 5,
+    "lecture_total": 77,
+    "video_total": 77,
+    "article_total": 0,
+    "quiz_total": 0,
+    "attachment_total": 0,
+    "translated_chapter_total": 0,
+    "translated_lecture_total": 6,
+    "translated_video_total": 6,
+    "translated_article_total": 0,
+    "translated_quiz_total": 0,
+    "translated_attachment_total": 0,
+    "category_id": 15,
+    "join_course_state": "unjoin",
+    "promo": null,
+    "outlines": [
+      {
+        "id": 2158,
+        "index": 1,
+        "title": "相似三角形和三角比",
+        "en_title": "Trigonometry with right triangles",
+        "lectures": [
+          {
+            "id": 33029,
+            "index": 1,
+            "title": "三角比",
+            "en_title": "Introduction to the trigonometric ratios",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19674,
+              "duration_secs": 556,
+              "duration_msecs": 556333,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457032915450_8750.jpg",
+              "lecture_id": 33029,
+              "guid": "2a29014d-e33b-4073-b21d-018bb3d6b435",
+              "brief": "还在为三角函数的定义、记忆和解答而发懵？Sal用简洁的讲解迅速破解了还提供了助记方法，一起来看看吧",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/2a29014d-e33b-4073-b21d-018bb3d6b435.mp4",
+                  "size": 8255203,
+                  "size_mb": 7.87,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 4,
+              "collect_number": 8,
+              "source_url": "http://www.youtube.com/watch?v=Jsiy4TxgIME",
+              "translate_status": "complete"
+            }
+          },
+          {
+            "id": 33030,
+            "index": 2,
+            "title": "如何计算直角三角形的三角函数",
+            "en_title": "How to find trigonometric ratios in a right triangle (examples)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19675,
+              "duration_secs": 730,
+              "duration_msecs": 730933,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457032965201_8611.jpg",
+              "lecture_id": 33030,
+              "guid": "11eda71d-b269-42e6-ac15-7ce44cbfb8cb",
+              "brief": "本课程通过举例说明，介绍了直角三角形的正弦，余弦，正切该如何计算",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/11eda71d-b269-42e6-ac15-7ce44cbfb8cb.mp4",
+                  "size": 10631532,
+                  "size_mb": 10.14,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 2,
+              "collect_number": 2,
+              "source_url": "http://www.youtube.com/watch?v=G-T_6hCdMQc",
+              "translate_status": "complete"
+            }
+          },
+          {
+            "id": 33031,
+            "index": 3,
+            "title": "如何利用三角法求直角三角形中未知边的长度（例题）",
+            "en_title": "How to find missing sides in a right triangle using trigonometry (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19676,
+              "duration_secs": 423,
+              "duration_msecs": 423533,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457032987406_6451.jpg",
+              "lecture_id": 33031,
+              "guid": "bf5d6b8f-adbc-43f3-9b69-ba5ddfda79f8",
+              "brief": "利用三角函数解直角三角形的简单应用（例题）",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/bf5d6b8f-adbc-43f3-9b69-ba5ddfda79f8.mp4",
+                  "size": 6462938,
+                  "size_mb": 6.16,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=l5VbdqRjTXc",
+              "translate_status": "complete"
+            }
+          },
+          {
+            "id": 33032,
+            "index": 4,
+            "title": "怎样在有一个未知角的情况下解一个直角三角形(示例)",
+            "en_title": "How to solve a right triangle word problem with a missing angle (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19677,
+              "duration_secs": 274,
+              "duration_msecs": 274533,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033004958_609.jpg",
+              "lecture_id": 33032,
+              "guid": "bb64357e-cadf-4f07-9dc5-045144ae4943",
+              "brief": "本节介绍了三角形的正弦余弦和正切，主要讲解了正切与反正切。",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/bb64357e-cadf-4f07-9dc5-045144ae4943.mp4",
+                  "size": 4242851,
+                  "size_mb": 4.05,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=aHzd-u35LuA",
+              "translate_status": "complete"
+            }
+          },
+          {
+            "id": 33033,
+            "index": 5,
+            "title": "相似三角形和三角比",
+            "en_title": "Triangle similarity and the trigonometric ratios",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19678,
+              "duration_secs": 535,
+              "duration_msecs": 535733,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033027742_9570.jpg",
+              "lecture_id": 33033,
+              "guid": "37ad2868-d32a-4d7f-bb6f-18513f056d4b",
+              "brief": "视频从直角三角形的相似入手，介绍了正弦，余弦以及正切",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/37ad2868-d32a-4d7f-bb6f-18513f056d4b.mp4",
+                  "size": 7876216,
+                  "size_mb": 7.51,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=QuZMXVJNLCo",
+              "translate_status": "complete"
+            }
+          },
+          {
+            "id": 33034,
+            "index": 6,
+            "title": null,
+            "en_title": "Challenge problem: Verify identities",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19679,
+              "duration_secs": 306,
+              "duration_msecs": 535733,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033049856_9314.jpg",
+              "lecture_id": 33034,
+              "guid": "eac41dac-ac22-42d0-8371-2abe60ec67c2",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/eac41dac-ac22-42d0-8371-2abe60ec67c2.mp4",
+                  "size": 7876216,
+                  "size_mb": 7.51,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=TugWqiUjOU4",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33035,
+            "index": 7,
+            "title": null,
+            "en_title": "Challenge problem: Match trigonometric values and side ratios",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19680,
+              "duration_secs": 563,
+              "duration_msecs": 563467,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033074185_8991.jpg",
+              "lecture_id": 33035,
+              "guid": "8637ac7b-9e63-4f0b-a7be-49fb09c102ac",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/8637ac7b-9e63-4f0b-a7be-49fb09c102ac.mp4",
+                  "size": 9010651,
+                  "size_mb": 8.59,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 1,
+              "source_url": "http://www.youtube.com/watch?v=EBKNtjZAjXg",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33036,
+            "index": 8,
+            "title": null,
+            "en_title": "The sine and cosine of complementary example",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19681,
+              "duration_secs": 254,
+              "duration_msecs": 254333,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033092022_6360.jpg",
+              "lecture_id": 33036,
+              "guid": "48fc34d4-d450-42f9-837c-58a9e963f93a",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/48fc34d4-d450-42f9-837c-58a9e963f93a.mp4",
+                  "size": 3659532,
+                  "size_mb": 3.49,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=BLQNL_UGONg",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33037,
+            "index": 9,
+            "title": "互余角的正余弦关系应用",
+            "en_title": "Using the relationship between sine and cosine of complementary angles to solve a geometry problem",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19682,
+              "duration_secs": 244,
+              "duration_msecs": 244667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033106742_3639.jpg",
+              "lecture_id": 33037,
+              "guid": "6a949a83-275e-4efc-b56f-b730fb30ae43",
+              "brief": "教你一个数学小知识 没有弄懂的同学来看看吧～",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/6a949a83-275e-4efc-b56f-b730fb30ae43.mp4",
+                  "size": 3597480,
+                  "size_mb": 3.43,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=yiH6GoscimY",
+              "translate_status": "complete"
+            }
+          },
+          {
+            "id": 33038,
+            "index": 10,
+            "title": null,
+            "en_title": "Using the relationship between sine and cosine of complementary angles to solve a real-world problem",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19683,
+              "duration_secs": 343,
+              "duration_msecs": 244667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033127853_8269.jpg",
+              "lecture_id": 33038,
+              "guid": "ee808261-bac7-4829-9126-f717cbd3668a",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/ee808261-bac7-4829-9126-f717cbd3668a.mp4",
+                  "size": 3597480,
+                  "size_mb": 3.43,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=Z5EnuVJawmY",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33039,
+            "index": 11,
+            "title": null,
+            "en_title": "Introduction to the Pythagorean trigonometric identity",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19684,
+              "duration_secs": 255,
+              "duration_msecs": 255800,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033138479_2559.jpg",
+              "lecture_id": 33039,
+              "guid": "62973fac-c4ff-4802-809d-07d182d4291d",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/62973fac-c4ff-4802-809d-07d182d4291d.mp4",
+                  "size": 3670799,
+                  "size_mb": 3.5,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=HnDvUaVjQ1I",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33040,
+            "index": 12,
+            "title": null,
+            "en_title": "How to find the reciprocal trigonometric ratios of an angle (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19685,
+              "duration_secs": 283,
+              "duration_msecs": 283933,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033152344_4588.jpg",
+              "lecture_id": 33040,
+              "guid": "283499f9-9120-4c64-8556-ae4c5b641b83",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/283499f9-9120-4c64-8556-ae4c5b641b83.mp4",
+                  "size": 4349026,
+                  "size_mb": 4.15,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=Q7htxHDN8LE",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33041,
+            "index": 13,
+            "title": null,
+            "en_title": "How to use cotangent in order to solve for a side in a right triangle (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19686,
+              "duration_secs": 371,
+              "duration_msecs": 371333,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033171164_3792.jpg",
+              "lecture_id": 33041,
+              "guid": "cae558d2-8427-40f5-9ecb-dae6cba5c788",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/cae558d2-8427-40f5-9ecb-dae6cba5c788.mp4",
+                  "size": 5675893,
+                  "size_mb": 5.41,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=rufFQZDDXCE",
+              "translate_status": "translation-not-started"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2159,
+        "index": 2,
+        "title": "一般三角形",
+        "en_title": "Trigonometry with general triangles",
+        "lectures": [
+          {
+            "id": 33042,
+            "index": 1,
+            "title": null,
+            "en_title": "How to find a missing side length using the law of sines (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19687,
+              "duration_secs": 357,
+              "duration_msecs": 357600,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033189999_9093.jpg",
+              "lecture_id": 33042,
+              "guid": "cde064b2-3334-47a8-a363-9648845843d9",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/cde064b2-3334-47a8-a363-9648845843d9.mp4",
+                  "size": 5411507,
+                  "size_mb": 5.16,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=VjmFKle7xIw",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33043,
+            "index": 2,
+            "title": null,
+            "en_title": "How to find a missing angle measure using the law of sines (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19688,
+              "duration_secs": 333,
+              "duration_msecs": 333533,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033205462_4653.jpg",
+              "lecture_id": 33043,
+              "guid": "4d7f30d9-51d9-40d4-b654-401489a7652d",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/4d7f30d9-51d9-40d4-b654-401489a7652d.mp4",
+                  "size": 5009051,
+                  "size_mb": 4.78,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=IJySBMtFlnQ",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33044,
+            "index": 3,
+            "title": null,
+            "en_title": "Proof of the law of sines",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19689,
+              "duration_secs": 393,
+              "duration_msecs": 393100,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033224567_8558.jpg",
+              "lecture_id": 33044,
+              "guid": "99c5bc4b-266a-46b9-af8e-d60df6d8efe0",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/99c5bc4b-266a-46b9-af8e-d60df6d8efe0.mp4",
+                  "size": 6154925,
+                  "size_mb": 5.87,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 1,
+              "source_url": "http://www.youtube.com/watch?v=APNkWrD-U1k",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33045,
+            "index": 4,
+            "title": null,
+            "en_title": "How to find a missing side length using the law of cosines (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19690,
+              "duration_secs": 277,
+              "duration_msecs": 277200,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033239481_9923.jpg",
+              "lecture_id": 33045,
+              "guid": "29daab21-a83b-4e06-9172-826295d22081",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/29daab21-a83b-4e06-9172-826295d22081.mp4",
+                  "size": 4129527,
+                  "size_mb": 3.94,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=ZElOxG7_m3c",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33046,
+            "index": 5,
+            "title": null,
+            "en_title": "How to find a missing angle measure using the law of cosines (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19691,
+              "duration_secs": 400,
+              "duration_msecs": 400800,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033262754_6317.jpg",
+              "lecture_id": 33046,
+              "guid": "a6c66c92-8b1c-4907-be37-ddd355e8d1ff",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/a6c66c92-8b1c-4907-be37-ddd355e8d1ff.mp4",
+                  "size": 6163427,
+                  "size_mb": 5.88,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=Ei54NnQ0FKs",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33047,
+            "index": 6,
+            "title": null,
+            "en_title": "Proof of the law of cosines",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19692,
+              "duration_secs": 566,
+              "duration_msecs": 566600,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033290447_9780.jpg",
+              "lecture_id": 33047,
+              "guid": "cd323559-ddc1-48fb-82b3-2f09db617af3",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/cd323559-ddc1-48fb-82b3-2f09db617af3.mp4",
+                  "size": 8613797,
+                  "size_mb": 8.21,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=pGaDcOMdw48",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33048,
+            "index": 7,
+            "title": null,
+            "en_title": "Word problem: Solving for a side length in a general triangle (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19693,
+              "duration_secs": 358,
+              "duration_msecs": 566600,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033306947_2318.jpg",
+              "lecture_id": 33048,
+              "guid": "f8466f8a-10d6-4841-a99e-263513539e15",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/f8466f8a-10d6-4841-a99e-263513539e15.mp4",
+                  "size": 8613797,
+                  "size_mb": 8.21,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=6kGi1dvGZNY",
+              "translate_status": "translation-not-started"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2160,
+        "index": 3,
+        "title": "正弦，余弦，正切的单位圆定义",
+        "en_title": "The unit circle definition of sine, cosine, and tangent",
+        "lectures": [
+          {
+            "id": 33049,
+            "index": 1,
+            "title": null,
+            "en_title": "Introduction to radians",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19694,
+              "duration_secs": 649,
+              "duration_msecs": 649867,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033339018_9002.jpg",
+              "lecture_id": 33049,
+              "guid": "4f3c2da4-99d3-4aa8-9381-8d69ebc84870",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/4f3c2da4-99d3-4aa8-9381-8d69ebc84870.mp4",
+                  "size": 9588065,
+                  "size_mb": 9.14,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=EnwWxMZVBeg",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33050,
+            "index": 2,
+            "title": null,
+            "en_title": "Converting between radians and degrees",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19695,
+              "duration_secs": 430,
+              "duration_msecs": 430867,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033359013_2126.jpg",
+              "lecture_id": 33050,
+              "guid": "2231eea7-405b-45af-8f1f-d270bf7069ad",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/2231eea7-405b-45af-8f1f-d270bf7069ad.mp4",
+                  "size": 6278618,
+                  "size_mb": 5.99,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=z8vj8tUCkxY",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33051,
+            "index": 3,
+            "title": null,
+            "en_title": "How to convert from degrees to radians (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19696,
+              "duration_secs": 420,
+              "duration_msecs": 420867,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033382620_1490.jpg",
+              "lecture_id": 33051,
+              "guid": "20017217-ee97-4ad7-9cbb-1a6df4362b46",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/20017217-ee97-4ad7-9cbb-1a6df4362b46.mp4",
+                  "size": 6273133,
+                  "size_mb": 5.98,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=O3jvUZ8wvZs",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33052,
+            "index": 4,
+            "title": null,
+            "en_title": "How to convert from radians to degrees (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19697,
+              "duration_secs": 199,
+              "duration_msecs": 420867,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033392911_8512.jpg",
+              "lecture_id": 33052,
+              "guid": "ecac6f79-3023-40f3-b4c6-a7b34c97d01e",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/ecac6f79-3023-40f3-b4c6-a7b34c97d01e.mp4",
+                  "size": 6273133,
+                  "size_mb": 5.98,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=z0-1gBy1ykE",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33053,
+            "index": 5,
+            "title": null,
+            "en_title": "Rotation by radians and quadrants",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19698,
+              "duration_secs": 230,
+              "duration_msecs": 230000,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033417537_9968.jpg",
+              "lecture_id": 33053,
+              "guid": "00d9393c-8fdb-4e1c-a3af-703751e8f6dd",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/00d9393c-8fdb-4e1c-a3af-703751e8f6dd.mp4",
+                  "size": 3789947,
+                  "size_mb": 3.61,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=fYQ3GRSu4JU",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33054,
+            "index": 6,
+            "title": null,
+            "en_title": "The unit circle definition of sine, cosine, and tangent",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19699,
+              "duration_secs": 543,
+              "duration_msecs": 543667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033437771_2818.jpg",
+              "lecture_id": 33054,
+              "guid": "9b08e311-9491-4060-91a3-963b01d1a0a3",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/9b08e311-9491-4060-91a3-963b01d1a0a3.mp4",
+                  "size": 8066443,
+                  "size_mb": 7.69,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=1m9p9iubMLU",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33055,
+            "index": 7,
+            "title": null,
+            "en_title": "How to find trigonometric values using the unit circle definition (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19700,
+              "duration_secs": 251,
+              "duration_msecs": 543667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033452496_4586.jpg",
+              "lecture_id": 33055,
+              "guid": "efd26412-5a9e-4109-8c5b-a41c13570590",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/efd26412-5a9e-4109-8c5b-a41c13570590.mp4",
+                  "size": 8066443,
+                  "size_mb": 7.69,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=Jni7E2RH43s",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33056,
+            "index": 8,
+            "title": null,
+            "en_title": "Matching the SOH CAH TOA and the unit circle definitions of the trigonometric functions",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19701,
+              "duration_secs": 416,
+              "duration_msecs": 416267,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033475745_5416.jpg",
+              "lecture_id": 33056,
+              "guid": "aff76c2e-72f3-4e8f-984b-08a48937ff05",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/aff76c2e-72f3-4e8f-984b-08a48937ff05.mp4",
+                  "size": 6402968,
+                  "size_mb": 6.11,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=WffVdYETdng",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33057,
+            "index": 9,
+            "title": null,
+            "en_title": "The graph of the sine function",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19702,
+              "duration_secs": 561,
+              "duration_msecs": 561333,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033504401_7370.jpg",
+              "lecture_id": 33057,
+              "guid": "8686b92b-dd68-4a10-96e9-a0ae26915e7a",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/8686b92b-dd68-4a10-96e9-a0ae26915e7a.mp4",
+                  "size": 8237766,
+                  "size_mb": 7.86,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=sjUhr0HkLUg",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33058,
+            "index": 10,
+            "title": null,
+            "en_title": "The graph of the tangent function",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19703,
+              "duration_secs": 611,
+              "duration_msecs": 611267,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033542340_45.jpg",
+              "lecture_id": 33058,
+              "guid": "30c2ffb9-54de-4d4d-8750-830c078cb966",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/30c2ffb9-54de-4d4d-8750-830c078cb966.mp4",
+                  "size": 9429646,
+                  "size_mb": 8.99,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=FK6-tZ5D7xM",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33059,
+            "index": 11,
+            "title": null,
+            "en_title": "Finding the intersection points of the graphs of sine and cosine",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19704,
+              "duration_secs": 666,
+              "duration_msecs": 666600,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033575878_4859.jpg",
+              "lecture_id": 33059,
+              "guid": "13de3c73-2ebe-49ec-ab3b-b4bdae31e884",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/13de3c73-2ebe-49ec-ab3b-b4bdae31e884.mp4",
+                  "size": 10343183,
+                  "size_mb": 9.86,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=fp9DZYmiSC4",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33060,
+            "index": 12,
+            "title": null,
+            "en_title": "Sine and cosine identities that arise from the symmetry of the unit circle",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19705,
+              "duration_secs": 477,
+              "duration_msecs": 477733,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033598746_461.jpg",
+              "lecture_id": 33060,
+              "guid": "01aaec42-bdcc-48fc-afe9-f49034203a3c",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/01aaec42-bdcc-48fc-afe9-f49034203a3c.mp4",
+                  "size": 7229621,
+                  "size_mb": 6.89,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=tzQ7arA917E",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33061,
+            "index": 13,
+            "title": null,
+            "en_title": "Tangent identities that arise from the symmetry of the unit circle",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19706,
+              "duration_secs": 434,
+              "duration_msecs": 434600,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033625414_5262.jpg",
+              "lecture_id": 33061,
+              "guid": "066fe79d-b543-4847-894c-4eb819cdb062",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/066fe79d-b543-4847-894c-4eb819cdb062.mp4",
+                  "size": 7941914,
+                  "size_mb": 7.57,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=k_wJsio68D4",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33062,
+            "index": 14,
+            "title": null,
+            "en_title": "Sine and cosine identities that arise from angle rotations on the unit circle",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19707,
+              "duration_secs": 372,
+              "duration_msecs": 372667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033642619_7145.jpg",
+              "lecture_id": 33062,
+              "guid": "b29f068b-b4ba-45c9-9821-78bff3633f9f",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/b29f068b-b4ba-45c9-9821-78bff3633f9f.mp4",
+                  "size": 5524294,
+                  "size_mb": 5.27,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=h-TPSylHrvE",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33063,
+            "index": 15,
+            "title": null,
+            "en_title": "Identity that arises from the periodicity of the tangent function",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19708,
+              "duration_secs": 241,
+              "duration_msecs": 372667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033655804_3348.jpg",
+              "lecture_id": 33063,
+              "guid": "f506a1db-1a5f-42b7-a417-3d534438d7b6",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/f506a1db-1a5f-42b7-a417-3d534438d7b6.mp4",
+                  "size": 5524294,
+                  "size_mb": 5.27,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=C3HFAyigqoY",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33064,
+            "index": 16,
+            "title": null,
+            "en_title": "Finding the trigonometric values of a special angle in the unit circle",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19709,
+              "duration_secs": 472,
+              "duration_msecs": 372667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033683697_7050.jpg",
+              "lecture_id": 33064,
+              "guid": "fafa6dca-a149-4d46-95c3-ec571a0bcfe9",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/fafa6dca-a149-4d46-95c3-ec571a0bcfe9.mp4",
+                  "size": 5524294,
+                  "size_mb": 5.27,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=KoYZErFpZ5Q",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33065,
+            "index": 17,
+            "title": null,
+            "en_title": "Proof of the Pythagorean trigonometric identity",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19710,
+              "duration_secs": 371,
+              "duration_msecs": 371333,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033700206_4820.jpg",
+              "lecture_id": 33065,
+              "guid": "dcb4ad70-61e3-40b2-afa5-e84efa008cf9",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/dcb4ad70-61e3-40b2-afa5-e84efa008cf9.mp4",
+                  "size": 5388491,
+                  "size_mb": 5.14,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=n0DLSIOYBsQ",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33066,
+            "index": 18,
+            "title": null,
+            "en_title": "How to find a trig value of an angle given another trig value of the angle (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19711,
+              "duration_secs": 374,
+              "duration_msecs": 374667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033718055_4288.jpg",
+              "lecture_id": 33066,
+              "guid": "4ed3a5ee-3e33-4981-b94d-c431df654c18",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/4ed3a5ee-3e33-4981-b94d-c431df654c18.mp4",
+                  "size": 5508869,
+                  "size_mb": 5.25,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=soIt2TwV6Xk",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33067,
+            "index": 19,
+            "title": null,
+            "en_title": "Tau versus pi",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19712,
+              "duration_secs": 981,
+              "duration_msecs": 374667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033772233_4977.jpg",
+              "lecture_id": 33067,
+              "guid": "ede256ac-0f0b-4135-8e3c-76b2b7ed4195",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/ede256ac-0f0b-4135-8e3c-76b2b7ed4195.mp4",
+                  "size": 5508869,
+                  "size_mb": 5.25,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=1jDDfkKKgmc",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33068,
+            "index": 20,
+            "title": null,
+            "en_title": "Pi is (still) wrong",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19713,
+              "duration_secs": 316,
+              "duration_msecs": 316200,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033857259_2891.jpg",
+              "lecture_id": 33068,
+              "guid": "488cba5b-62b3-45c8-91ce-5243f96e2bd7",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/488cba5b-62b3-45c8-91ce-5243f96e2bd7.mp4",
+                  "size": 27388802,
+                  "size_mb": 26.12,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=jG7vhMMXagQ",
+              "translate_status": "translation-not-started"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2161,
+        "index": 4,
+        "title": "三角函数曲线",
+        "en_title": "Graphs of trigonometric functions",
+        "lectures": [
+          {
+            "id": 33069,
+            "index": 1,
+            "title": null,
+            "en_title": "The graph of the sine function",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19714,
+              "duration_secs": 561,
+              "duration_msecs": 561333,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033876277_6635.jpg",
+              "lecture_id": 33069,
+              "guid": "17cc8f85-552c-471b-ad42-7120d8881e09",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/17cc8f85-552c-471b-ad42-7120d8881e09.mp4",
+                  "size": 8237766,
+                  "size_mb": 7.86,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=sjUhr0HkLUg",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33070,
+            "index": 2,
+            "title": null,
+            "en_title": "The graph of the tangent function",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19715,
+              "duration_secs": 611,
+              "duration_msecs": 561333,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033912299_4023.jpg",
+              "lecture_id": 33070,
+              "guid": "f55c83d9-7adb-4dee-b014-08874d700ab5",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/f55c83d9-7adb-4dee-b014-08874d700ab5.mp4",
+                  "size": 8237766,
+                  "size_mb": 7.86,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=FK6-tZ5D7xM",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33071,
+            "index": 3,
+            "title": null,
+            "en_title": "Finding the intersection points of the graphs of sine and cosine",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19716,
+              "duration_secs": 666,
+              "duration_msecs": 666600,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033947143_7617.jpg",
+              "lecture_id": 33071,
+              "guid": "0bb8015a-1d12-4cdb-b31f-8ff2afb3b5da",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/0bb8015a-1d12-4cdb-b31f-8ff2afb3b5da.mp4",
+                  "size": 10343183,
+                  "size_mb": 9.86,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=fp9DZYmiSC4",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33072,
+            "index": 4,
+            "title": null,
+            "en_title": "Midline, amplitude and period of a sinusoidal function",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19717,
+              "duration_secs": 297,
+              "duration_msecs": 297667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033962837_4659.jpg",
+              "lecture_id": 33072,
+              "guid": "e1f96f8e-d075-4c4a-ad88-4cb21e30167e",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/e1f96f8e-d075-4c4a-ad88-4cb21e30167e.mp4",
+                  "size": 4626551,
+                  "size_mb": 4.41,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=s4cLM0l1gd4",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33073,
+            "index": 5,
+            "title": null,
+            "en_title": "How to find the amplitude and period of a sinusoidal functions from its formula (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19718,
+              "duration_secs": 500,
+              "duration_msecs": 500800,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457033988826_230.jpg",
+              "lecture_id": 33073,
+              "guid": "3235af6b-1692-4f50-85ed-b3ea374c65a5",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/3235af6b-1692-4f50-85ed-b3ea374c65a5.mp4",
+                  "size": 7454527,
+                  "size_mb": 7.11,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=SBqnRja4CW4",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33074,
+            "index": 6,
+            "title": null,
+            "en_title": "How to find the amplitude and period of a sinusoidal functions from its formula (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19719,
+              "duration_secs": 500,
+              "duration_msecs": 500800,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034021480_3068.jpg",
+              "lecture_id": 33074,
+              "guid": "37b694ab-b16c-4499-8ae0-a6a6dd5e03cc",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/37b694ab-b16c-4499-8ae0-a6a6dd5e03cc.mp4",
+                  "size": 7454527,
+                  "size_mb": 7.11,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=SBqnRja4CW4",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33075,
+            "index": 7,
+            "title": null,
+            "en_title": "Graph of a sinusoidal function with vertical stretch and horizontal reflection",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19720,
+              "duration_secs": 771,
+              "duration_msecs": 771333,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034052731_6344.jpg",
+              "lecture_id": 33075,
+              "guid": "a225b9b9-0f37-4c42-9fec-d12206dc939b",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/a225b9b9-0f37-4c42-9fec-d12206dc939b.mp4",
+                  "size": 11783998,
+                  "size_mb": 11.24,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=0zCcFSO8ouE",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33076,
+            "index": 8,
+            "title": null,
+            "en_title": "Graph of a sinusoidal function with vertical and horizontal stretches",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19721,
+              "duration_secs": 642,
+              "duration_msecs": 642533,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034089869_6070.jpg",
+              "lecture_id": 33076,
+              "guid": "73d48bf7-9c01-42e2-bf53-9f5ba318f1e5",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/73d48bf7-9c01-42e2-bf53-9f5ba318f1e5.mp4",
+                  "size": 10043420,
+                  "size_mb": 9.58,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=uBVhtGL9y88",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33077,
+            "index": 9,
+            "title": null,
+            "en_title": "How to construct a sinusoidal function from its graph",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19722,
+              "duration_secs": 321,
+              "duration_msecs": 321000,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034106745_203.jpg",
+              "lecture_id": 33077,
+              "guid": "93890e1e-3d60-4a31-9a47-0c97a2362f2f",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/93890e1e-3d60-4a31-9a47-0c97a2362f2f.mp4",
+                  "size": 4909423,
+                  "size_mb": 4.68,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=yHo0CcDVHsk",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33078,
+            "index": 10,
+            "title": null,
+            "en_title": "Word problem: Constructing a sinusoidal model using sine",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19723,
+              "duration_secs": 654,
+              "duration_msecs": 654667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034142668_9116.jpg",
+              "lecture_id": 33078,
+              "guid": "e0867374-100c-4c50-b6be-49f855df0d23",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/e0867374-100c-4c50-b6be-49f855df0d23.mp4",
+                  "size": 10030816,
+                  "size_mb": 9.57,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=RX0DY9eRp8g",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33079,
+            "index": 11,
+            "title": null,
+            "en_title": "Word problem: Constructing a sinusoidal model using cosine",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19724,
+              "duration_secs": 428,
+              "duration_msecs": 428467,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034163553_5170.jpg",
+              "lecture_id": 33079,
+              "guid": "7c5596fd-5586-4812-a6ae-712f20fd0e95",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/7c5596fd-5586-4812-a6ae-712f20fd0e95.mp4",
+                  "size": 6469635,
+                  "size_mb": 6.17,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=mVlCXkht6hg",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33080,
+            "index": 12,
+            "title": null,
+            "en_title": "Word problem: Constructing a sinusoidal model with phase shift",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19725,
+              "duration_secs": 462,
+              "duration_msecs": 462133,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034189409_9719.jpg",
+              "lecture_id": 33080,
+              "guid": "a108eb87-31d8-4f2e-aff0-ee7a08c9f5e1",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/a108eb87-31d8-4f2e-aff0-ee7a08c9f5e1.mp4",
+                  "size": 7295818,
+                  "size_mb": 6.96,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=MJBjGnR6vlk",
+              "translate_status": "translation-not-started"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2162,
+        "index": 5,
+        "title": "三角方程等式",
+        "en_title": "Trigonometric equations and identities",
+        "lectures": [
+          {
+            "id": 33081,
+            "index": 1,
+            "title": null,
+            "en_title": "Introduction to arcsine",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19726,
+              "duration_secs": 635,
+              "duration_msecs": 635200,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034225283_4194.jpg",
+              "lecture_id": 33081,
+              "guid": "c1013c51-9a24-4003-8405-7cde090b3112",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/c1013c51-9a24-4003-8405-7cde090b3112.mp4",
+                  "size": 10951947,
+                  "size_mb": 10.44,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=JGU74wbZMLg",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33082,
+            "index": 2,
+            "title": null,
+            "en_title": "Introduction to arctangent",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19727,
+              "duration_secs": 605,
+              "duration_msecs": 605933,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034259899_5392.jpg",
+              "lecture_id": 33082,
+              "guid": "d1a9cf2b-783c-4c72-b53c-dbb14f8e2d2e",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/d1a9cf2b-783c-4c72-b53c-dbb14f8e2d2e.mp4",
+                  "size": 11080324,
+                  "size_mb": 10.57,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=Idxeo49szW0",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33083,
+            "index": 3,
+            "title": null,
+            "en_title": "Introduction to arccosine",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19728,
+              "duration_secs": 817,
+              "duration_msecs": 817467,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034312621_8592.jpg",
+              "lecture_id": 33083,
+              "guid": "9d3d2d06-f68e-40a9-b980-350bdb4eae97",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/9d3d2d06-f68e-40a9-b980-350bdb4eae97.mp4",
+                  "size": 14984281,
+                  "size_mb": 14.29,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=eTDaJ4ebK28",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33084,
+            "index": 4,
+            "title": null,
+            "en_title": "How to restrict the domain of a function to make it invertible (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19729,
+              "duration_secs": 359,
+              "duration_msecs": 359533,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034327572_5704.jpg",
+              "lecture_id": 33084,
+              "guid": "4a1c32e8-d0d7-4cd8-9977-e2453777cf21",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/4a1c32e8-d0d7-4cd8-9977-e2453777cf21.mp4",
+                  "size": 5653962,
+                  "size_mb": 5.39,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=tCV9VyIIaw0",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33085,
+            "index": 5,
+            "title": null,
+            "en_title": "Restricting the domain of a tangent function to make it invertible",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19730,
+              "duration_secs": 583,
+              "duration_msecs": 583467,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034363131_9233.jpg",
+              "lecture_id": 33085,
+              "guid": "a4f53445-0b22-41f9-92ac-dfa3f15c0d64",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/a4f53445-0b22-41f9-92ac-dfa3f15c0d64.mp4",
+                  "size": 8932222,
+                  "size_mb": 8.52,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=QGfdhqbilY8",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33086,
+            "index": 6,
+            "title": null,
+            "en_title": "How to find an angle given its tangent using a calculator (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19731,
+              "duration_secs": 214,
+              "duration_msecs": 214800,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034373853_6139.jpg",
+              "lecture_id": 33086,
+              "guid": "77504aa1-f377-4227-9472-25d2bd3d7c8c",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/77504aa1-f377-4227-9472-25d2bd3d7c8c.mp4",
+                  "size": 3415193,
+                  "size_mb": 3.26,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=MABWdzmZFIQ",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33087,
+            "index": 7,
+            "title": null,
+            "en_title": "How to find all solutions to an equation of the form sin(x)=d (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19732,
+              "duration_secs": 369,
+              "duration_msecs": 369067,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034398779_4827.jpg",
+              "lecture_id": 33087,
+              "guid": "505ae5db-c1e7-4cec-a758-17503f80931a",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/505ae5db-c1e7-4cec-a758-17503f80931a.mp4",
+                  "size": 5710944,
+                  "size_mb": 5.45,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=NC7iWEQ9Kug",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33088,
+            "index": 8,
+            "title": null,
+            "en_title": "Solving cos(θ)=1 and cos(θ)=-1",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19733,
+              "duration_secs": 317,
+              "duration_msecs": 317600,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034415134_4169.jpg",
+              "lecture_id": 33088,
+              "guid": "14522fee-1fee-484d-9aed-4985ff52bb65",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/14522fee-1fee-484d-9aed-4985ff52bb65.mp4",
+                  "size": 4792910,
+                  "size_mb": 4.57,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=SdHwokUU8xI",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33089,
+            "index": 9,
+            "title": null,
+            "en_title": "Word problem: Solving a sinusoidal modeling function",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19734,
+              "duration_secs": 502,
+              "duration_msecs": 317600,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034445446_1618.jpg",
+              "lecture_id": 33089,
+              "guid": "fcdcde83-0603-4c6b-a986-73b89eb0c2b3",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/fcdcde83-0603-4c6b-a986-73b89eb0c2b3.mp4",
+                  "size": 4792910,
+                  "size_mb": 4.57,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=2pwnr_soZEU",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33090,
+            "index": 10,
+            "title": null,
+            "en_title": "Review of the trigonometric angle addition identities",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19735,
+              "duration_secs": 666,
+              "duration_msecs": 666133,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034482335_6829.jpg",
+              "lecture_id": 33090,
+              "guid": "1eab3a6f-e9ab-410f-a80b-8222b661c8d1",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/1eab3a6f-e9ab-410f-a80b-8222b661c8d1.mp4",
+                  "size": 10791725,
+                  "size_mb": 10.29,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=a70-dYvDJZY",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33091,
+            "index": 11,
+            "title": null,
+            "en_title": "How to use the cosine angle addition identity (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19736,
+              "duration_secs": 313,
+              "duration_msecs": 666133,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034495488_6719.jpg",
+              "lecture_id": 33091,
+              "guid": "f181f50d-49e7-4c4f-9351-accf3fbc387d",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/f181f50d-49e7-4c4f-9351-accf3fbc387d.mp4",
+                  "size": 10791725,
+                  "size_mb": 10.29,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=h0SNEO25vIw",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33092,
+            "index": 12,
+            "title": null,
+            "en_title": "How to use the cosine double-angle identity (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19737,
+              "duration_secs": 207,
+              "duration_msecs": 207133,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034506158_6576.jpg",
+              "lecture_id": 33092,
+              "guid": "99502876-b352-44c8-bd01-fa0c79877890",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/99502876-b352-44c8-bd01-fa0c79877890.mp4",
+                  "size": 3027946,
+                  "size_mb": 2.89,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 1,
+              "source_url": "http://www.youtube.com/watch?v=D_smr0GBPvA",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33093,
+            "index": 13,
+            "title": null,
+            "en_title": "Proof of the sine angle addition identity",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19738,
+              "duration_secs": 505,
+              "duration_msecs": 505067,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034531745_5328.jpg",
+              "lecture_id": 33093,
+              "guid": "87df715c-986a-4072-bbd5-3e3a90d165c2",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/87df715c-986a-4072-bbd5-3e3a90d165c2.mp4",
+                  "size": 7601140,
+                  "size_mb": 7.25,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=R0EQg9vgbQw",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33094,
+            "index": 14,
+            "title": null,
+            "en_title": "Proof of the cosine angle addition identity",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19739,
+              "duration_secs": 361,
+              "duration_msecs": 361067,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034550179_2534.jpg",
+              "lecture_id": 33094,
+              "guid": "dcecde7b-1cf9-4085-b0e4-76f67f264c09",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/dcecde7b-1cf9-4085-b0e4-76f67f264c09.mp4",
+                  "size": 5604875,
+                  "size_mb": 5.35,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=0VBQnR2h8XM",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33095,
+            "index": 15,
+            "title": null,
+            "en_title": "How to find trigonometric values using the angle addition formulas (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19740,
+              "duration_secs": 514,
+              "duration_msecs": 361067,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034576201_9291.jpg",
+              "lecture_id": 33095,
+              "guid": "f0fad9a4-e832-44f7-bb4a-7ae89358522f",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/f0fad9a4-e832-44f7-bb4a-7ae89358522f.mp4",
+                  "size": 5604875,
+                  "size_mb": 5.35,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=2RbKfRfzD-M",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33096,
+            "index": 16,
+            "title": null,
+            "en_title": "How to find a side length using the trig angle addition identities (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19741,
+              "duration_secs": 319,
+              "duration_msecs": 319667,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034591276_5446.jpg",
+              "lecture_id": 33096,
+              "guid": "399fc1d0-9e11-4650-b925-c57430713025",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/399fc1d0-9e11-4650-b925-c57430713025.mp4",
+                  "size": 4725990,
+                  "size_mb": 4.51,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=sI789G6FBb4",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33097,
+            "index": 17,
+            "title": null,
+            "en_title": "How to manipulate expressions using the trig angle addition formulas (example)",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19742,
+              "duration_secs": 371,
+              "duration_msecs": 371000,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034614673_4255.jpg",
+              "lecture_id": 33097,
+              "guid": "e244d717-ac47-42a6-acb0-b8ee04d6f4c7",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/e244d717-ac47-42a6-acb0-b8ee04d6f4c7.mp4",
+                  "size": 5545925,
+                  "size_mb": 5.29,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=yV4Xa8Xtmrc",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33098,
+            "index": 18,
+            "title": null,
+            "en_title": "Rewriting trigonometric expressions using trigonometric identities",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19743,
+              "duration_secs": 186,
+              "duration_msecs": 186133,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034618776_2524.jpg",
+              "lecture_id": 33098,
+              "guid": "7e0ff24c-971e-4104-b134-525c49959823",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/7e0ff24c-971e-4104-b134-525c49959823.mp4",
+                  "size": 2690505,
+                  "size_mb": 2.57,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=4OEeVLo5V1o",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33099,
+            "index": 19,
+            "title": null,
+            "en_title": "Challenge problem: Find the area of a triangle",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19744,
+              "duration_secs": 994,
+              "duration_msecs": 994933,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034677507_4217.jpg",
+              "lecture_id": 33099,
+              "guid": "b9ff54f0-8110-43e5-ab0c-a82864184e2a",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/b9ff54f0-8110-43e5-ab0c-a82864184e2a.mp4",
+                  "size": 16737491,
+                  "size_mb": 15.96,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=smtrrefmC40",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33100,
+            "index": 20,
+            "title": null,
+            "en_title": "Challenge problem: Find the area of a hexagon",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19745,
+              "duration_secs": 1097,
+              "duration_msecs": 1097133,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034735947_5950.jpg",
+              "lecture_id": 33100,
+              "guid": "1f475391-4ce7-47e0-8094-fd990e998162",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/1f475391-4ce7-47e0-8094-fd990e998162.mp4",
+                  "size": 17630442,
+                  "size_mb": 16.81,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=Ec-BKdC8vOo",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33101,
+            "index": 21,
+            "title": null,
+            "en_title": "Challenge problem: Find cosine of sum of angles given their cosines",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19746,
+              "duration_secs": 433,
+              "duration_msecs": 433600,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034762893_9969.jpg",
+              "lecture_id": 33101,
+              "guid": "a26cafe8-7e25-40a7-a4ee-ee4bb407a517",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/a26cafe8-7e25-40a7-a4ee-ee4bb407a517.mp4",
+                  "size": 6488865,
+                  "size_mb": 6.19,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=XGpEHj43kcc",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33102,
+            "index": 22,
+            "title": null,
+            "en_title": "Challenge problem: Rewrite a trigonometric equation of angles in arithmetic progression",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19747,
+              "duration_secs": 912,
+              "duration_msecs": 912933,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034810324_5661.jpg",
+              "lecture_id": 33102,
+              "guid": "777b2c85-4f99-4e73-a0d3-92104fd61800",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/777b2c85-4f99-4e73-a0d3-92104fd61800.mp4",
+                  "size": 14296191,
+                  "size_mb": 13.63,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=X7GT9JKoAbo",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33103,
+            "index": 23,
+            "title": null,
+            "en_title": "Challenge problem: Find the maximum value of a trigonometric expression",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19748,
+              "duration_secs": 593,
+              "duration_msecs": 593800,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034840146_8554.jpg",
+              "lecture_id": 33103,
+              "guid": "2d047f5c-fa89-44bd-a5cc-09c934b08e05",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/2d047f5c-fa89-44bd-a5cc-09c934b08e05.mp4",
+                  "size": 9227107,
+                  "size_mb": 8.8,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 1,
+              "source_url": "http://www.youtube.com/watch?v=tzR9jUCSniQ",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33104,
+            "index": 24,
+            "title": null,
+            "en_title": "Challenge problem: System of trigonometric equations",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19749,
+              "duration_secs": 768,
+              "duration_msecs": 768267,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034880057_300.jpg",
+              "lecture_id": 33104,
+              "guid": "04108e90-3b53-4e7d-a4db-191e1e38881b",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/04108e90-3b53-4e7d-a4db-191e1e38881b.mp4",
+                  "size": 12121404,
+                  "size_mb": 11.56,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=EjtjdJZ2x8w",
+              "translate_status": "translation-not-started"
+            }
+          },
+          {
+            "id": 33105,
+            "index": 25,
+            "title": null,
+            "en_title": "Challenge problem: Conditions on angle for a system of equation having a solution",
+            "brief": "",
+            "onshow": true,
+            "attachment_total": 0,
+            "attachments": [],
+            "type": "video",
+            "resource": {
+              "id": 19750,
+              "duration_secs": 662,
+              "duration_msecs": 661933,
+              "cover_url": "https://gcdp.oss-cn-qingdao.aliyuncs.com/201603/3/1457034916535_1886.jpg",
+              "lecture_id": 33105,
+              "guid": "054f70f7-5534-4c0e-a8ec-729e232915e6",
+              "brief": "",
+              "content": [
+                {
+                  "name": "360p",
+                  "url": "http://alicdn.yxgapp.com/miniVideos/054f70f7-5534-4c0e-a8ec-729e232915e6.mp4",
+                  "size": 10367389,
+                  "size_mb": 9.89,
+                  "priority": 1
+                }
+              ],
+              "comment_number": 0,
+              "collect_number": 0,
+              "source_url": "http://www.youtube.com/watch?v=Y2ed-g8Lpdc",
+              "translate_status": "translation-not-started"
+            }
+          }
+        ]
+      }
+    ],
+    "latest_learning_process": null
+  }
+}
